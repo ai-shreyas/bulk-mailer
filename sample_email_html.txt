@@ -1,0 +1,20 @@
+Subject: A sample subject
+<html>
+<head></head>
+<body>
+<p style="font-family: Arial, sans-serif;font-size: 18px;">Dear {candidate_name},</p>
+
+<p style="font-family: Arial, sans-serif;font-size: 18px;">This is line 1</p>
+
+<ol style="font-family: Arial, sans-serif; font-size: 18px;">
+	<li>More Content</li>
+	<li>More Content</li>
+</ol>
+
+<p style="font-family: Arial, sans-serif;font-size: 18px;">Warm regards,</p>
+
+<p style="font-family: Arial, sans-serif;font-size: 18px;">Your_name</p>
+
+</ol>
+</body>
+</html>

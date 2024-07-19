@@ -1,0 +1,15 @@
+venv
+*.pyc
+__pycache__
+*.pyo
+*.pyd
+.DS_Store
+
+.vscode/
+.idea/
+/logs/
+*.log
+
+/attachments_test
+experiments.ipynb
+.env

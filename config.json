@@ -1,0 +1,13 @@
+{
+    "_comment": "Email providers and their smtp server addresses and ports",
+    "providers": {
+        "gmail": {
+            "smtp": "smtp.gmail.com",
+            "port": 465
+        },
+        "zoho":{
+            "smtp": "smtppro.zoho.in",
+            "port": 587
+        }
+    }
+}
