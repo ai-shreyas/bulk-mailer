@@ -1,4 +1,4 @@
-Subject: A sample subject
+Subject: A sample subject.
 Hi {candidate_name},
 
 Your email body here2

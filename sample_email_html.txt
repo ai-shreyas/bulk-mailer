@@ -1,4 +1,4 @@
-Subject: A sample subject
+Subject: A sample subject.
 <html>
 <head></head>
 <body>
